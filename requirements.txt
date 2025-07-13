@@ -2,3 +2,4 @@ streamlit
 gtts 
 edge_tts
 asyncio
+google.generativeai
