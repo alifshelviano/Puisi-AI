@@ -3,3 +3,4 @@ gtts
 edge_tts
 asyncio
 google.generativeai
+dotenv
